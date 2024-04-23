@@ -6,13 +6,12 @@
             <br>
             I'm Becker, a 19yo Information Systems
             student from Brazil.
-            I'm also a Java and RPG enthusiast.
+            I'm also a Java and RPG enthusiast, and I have three cats.
             <br>
             /\___/\ <br>
             ꒰ ˶• ༝ - ˶꒱ <br>
             ./づᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊°`
             <br>
-            Oh and I have three cats.
         </b>
         <a href="https://git.io/typing-svg"><img
                 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A78AB&center=true&vCenter=true&random=false&width=200&lines=%2F%2F+no+comment"
