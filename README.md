@@ -1,16 +1,28 @@
-### Hi there 👋
+<p align="left"><strong><samp>/ᐠ⎚-⎚マ</samp></strong></p>
+<p align="center">
+    <samp><br>
+        <b>
+            Hello There!
+            <br>
+            I'm Becker, a 19yo Information Systems
+            student from Brazil.
+            I'm also a Java and RPG enthusiast.
+            <br>
+            /\___/\ <br>
+            ꒰ ˶• ༝ - ˶꒱ <br>
+            ./づᡕᠵ᠊ᡃ࡚ࠢ࠘ ⸝່ࠡࠣ᠊߯᠆ࠣ࠘ᡁࠣ࠘᠊᠊°`
+            <br>
+            Oh and I have three cats.
+        </b>
+        <a href="https://git.io/typing-svg"><img
+                src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3A78AB&center=true&vCenter=true&random=false&width=200&lines=%2F%2F+no+comment"
+                alt="Typing SVG" /></a>
+        <br>
+        <img
+            src="https://skillicons.dev/icons?i=java,javascript,c,cpp,nodejs,figma,bootstrap,react,postgres,vscode,discord,notion&perline=4">
+        <br>
+    </samp>
+</p>
 
-<!--
-**beckerware/beckerware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="right"><strong><samp>/ᐠ⎚-⎚マ</samp></strong></p>
