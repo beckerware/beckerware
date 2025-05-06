@@ -4,7 +4,7 @@
         <b>
             Hello There!
             <br>
-            I'm Becker, a 19yo Information Systems
+            I'm Becker, a 20yo Information Systems
             student from Brazil.
             I'm also a Java and RPG enthusiast, and I have three cats.
             <br>
